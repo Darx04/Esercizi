@@ -1,0 +1,199 @@
+
+           1
+
+il 1 cerchio:
+
+Ascissa centro:            2
+ordinata centro:           10
+    raggio:            2
+ Etichetta:            A
+
+il 2 cerchio:
+
+Ascissa centro:           10
+ordinata centro:            5
+    raggio:            3
+ Etichetta:            B
+
+il 3 cerchio:
+
+Ascissa centro:           -5
+ordinata centro:          -10
+    raggio:            4
+ Etichetta:            C
+
+il 4 cerchio:
+
+Ascissa centro:          -10
+ordinata centro:            2
+    raggio:            4
+ Etichetta:            D
+
+           2
+
+la 1 particella:
+
+Ascissa particella:        -9.19
+ordinata particella:        -9.44
+Carica particella:            7
+massa particella:         0.57
+
+la 2 particella:
+
+Ascissa particella:         -2.4
+ordinata particella:        -9.05
+Carica particella:           -7
+massa particella:         0.24
+
+la 3 particella:
+
+Ascissa particella:       -13.22
+ordinata particella:         0.24
+Carica particella:            5
+massa particella:         0.22
+
+la 128 particella:
+
+Ascissa particella:       -12.36
+ordinata particella:        -3.03
+Carica particella:            4
+massa particella:         0.69
+
+la 129 particella:
+
+Ascissa particella:        -7.81
+ordinata particella:         6.68
+Carica particella:           -1
+massa particella:         0.33
+
+la 130 particella:
+
+Ascissa particella:         7.68
+ordinata particella:         7.02
+Carica particella:           -5
+massa particella:         0.79
+
+           3
+
+la 1 particella:
+
+Ascissa particella:         3.82
+ordinata particella:         9.54
+Carica particella:           -3
+massa particella:         0.56
+
+la 2 particella:
+
+Ascissa particella:         0.98
+ordinata particella:        10.84
+Carica particella:            0
+massa particella:         0.79
+
+la 3 particella:
+
+Ascissa particella:          3.8
+ordinata particella:         9.17
+Carica particella:           -4
+massa particella:         0.76
+
+la 4 particella:
+
+Ascissa particella:         2.44
+ordinata particella:         8.64
+Carica particella:            5
+massa particella:         0.87
+
+la 5 particella:
+
+Ascissa particella:         3.16
+ordinata particella:          8.4
+Carica particella:           -2
+massa particella:         0.59
+
+la 6 particella:
+
+Ascissa particella:         2.58
+ordinata particella:          8.8
+Carica particella:           -9
+massa particella:         0.66
+
+la 7 particella:
+
+Ascissa particella:         1.88
+ordinata particella:         9.04
+Carica particella:           -6
+massa particella:         0.79
+
+la 8 particella:
+
+Ascissa particella:         1.17
+ordinata particella:         9.68
+Carica particella:           -3
+massa particella:         0.43
+
+la 9 particella:
+
+Ascissa particella:         1.95
+ordinata particella:         8.87
+Carica particella:           -8
+massa particella:         0.88
+
+la 10 particella:
+
+Ascissa particella:         1.29
+ordinata particella:         9.93
+Carica particella:          -10
+massa particella:          0.6
+
+la 11 particella:
+
+Ascissa particella:         2.65
+ordinata particella:         10.9
+Carica particella:           -3
+massa particella:          0.1
+
+la 12 particella:
+
+Ascissa particella:         1.75
+ordinata particella:         9.62
+Carica particella:           -2
+massa particella:         0.42
+
+la 13 particella:
+
+Ascissa particella:         3.32
+ordinata particella:         9.94
+Carica particella:           -4
+massa particella:         0.46
+
+           4
+
+ Etichetta:            D
+Numero part in cerchio:           18
+
+ Etichetta:            A
+Numero part in cerchio:           13
+
+ Etichetta:            C
+Numero part in cerchio:            7
+
+ Etichetta:            B
+Numero part in cerchio:            7
+
+           5
+
+il cerchio D   ha:
+somma delle masse: 7.37
+carica media: 1.85714
+
+il cerchio A   ha:
+somma delle masse: 7.91
+carica media: -7
+
+il cerchio C   ha:
+somma delle masse: 3.71
+carica media: -2.33333
+
+il cerchio B   ha:
+somma delle masse: 3.96
+carica media: -6.33333
